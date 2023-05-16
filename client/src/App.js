@@ -7,7 +7,8 @@ import './App.css';
 function App() {
   return (
     <div >
-      <Ploty />
+      {/* <Ploty /> */}
+      <Dashboard/>
     </div>
   );
 }

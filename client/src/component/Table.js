@@ -54,7 +54,9 @@ export default function AccessibleTable(props) {
                         <TableCell align="right">Likelihood</TableCell>
                     </TableRow>
                 </TableHead>
-                <TableBody >
+
+
+                <TableBody>
                     {!variable ? "loading" : variable.map((row) => (
                         <TableRow key={row}>
                             <TableCell component="th" scope="row">
