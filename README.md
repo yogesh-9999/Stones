@@ -50,23 +50,8 @@ Runs just the server in development mode.<br>
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Screenshot (179)](https://github.com/yogesh-9999/Stones/assets/84492118/58720c3b-a161-4af0-bdc4-bf80ea6c17ac)
+![Screenshot (180)](https://github.com/yogesh-9999/Stones/assets/84492118/d62b0a2b-94ab-4bcd-88c4-5c71a6dc1999)
+![Screenshot (181)](https://github.com/yogesh-9999/Stones/assets/84492118/57ddc03a-917e-44d6-aff3-e33775cde848)
+![Screenshot (182)](https://github.com/yogesh-9999/Stones/assets/84492118/57457cdf-f286-4389-ba7f-51aa72873a78)
 
-If deploying to heroku this does not need to be run since it is handled by the heroku-postbuild script<br>
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn how to setup a local MongoDB instance for testing, check out how to [Connect to MongoDB](https://docs.mongodb.com/guides/server/drivers/).
-
-To learn how to deploy a full-stack web app to heroku, check out [this great guide](https://daveceddia.com/deploy-react-express-app-heroku/).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
